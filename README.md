@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">My Github Stats 💻</h3>
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyuun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)]
+<a href="https://github.com/donghyuun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=donghyuun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="github stats" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuun&layout=compact&theme=dark)
+<a href="https://github.com/donghyuun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuun&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
