@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Github Stats</h3>
-<div align="center">
-
-<a href="https://github.com/donghyuun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=donghyuun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="github stats" /></a>
-
-<a href="https://github.com/donghyuun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuun&layout=compact&theme=nord&hide_border=true" /></a> 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=donghyuun&show_icons=true&hide_border=true" align="center"/>
+    </td>
+    <td width="50%">
+      <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=donghyuun&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
+    </td>
+  </tr>
+</table>  
