@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">My Github Stats 💻</h3>
+<h3 align="center">Github Stats</h3>
 <div align="center">
 
 <a href="https://github.com/donghyuun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=donghyuun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="github stats" /></a>
