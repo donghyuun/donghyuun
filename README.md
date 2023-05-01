@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">My Github Stats 💻</h3>
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyuun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyuun&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuun&layout=compact&theme=dark)
 </div>
