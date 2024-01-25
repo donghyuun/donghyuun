@@ -25,9 +25,6 @@ Here are some ideas to get you started:
   </tr>
 </table>  
 
-## 특정태그를 가진 최신글 가져오기
-> Option : ```&tag```
+new post
 ```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://github.com/eungyeole/velog-readme-stats)
