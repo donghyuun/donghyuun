@@ -24,5 +24,10 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>  
-velog 최신 포스트
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://github.com/eungyeole/velog-readme-stats)
+
+## 특정태그를 가진 최신글 가져오기
+> Option : ```&tag```
+```
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+```
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
