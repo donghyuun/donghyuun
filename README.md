@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>  
+velog 최신 포스트
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
