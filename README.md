@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
  **NEW POST** 
 </br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://velog-readme-stats.vercel.app/api/redirect?name=hyunn)
