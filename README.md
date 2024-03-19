@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuniam)](https://solved.ac/hyuniam)
 
  **NEW POST** 
 </br>
