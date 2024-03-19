@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyuniam)](https://solved.ac/hyuniam)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyuniam)](https://solved.ac/hyuniam) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://velog-readme-stats.vercel.app/api/redirect?name=hyunn)
 
 <h3 align="center">Github Stats</h3>
 <table>
@@ -26,7 +26,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>  
-
- **NEW POST** 
-</br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunn)](https://velog-readme-stats.vercel.app/api/redirect?name=hyunn)
