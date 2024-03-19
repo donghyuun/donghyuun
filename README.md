@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyuniam)](https://solved.ac/hyuniam)<br/>
+
 <h3 align="center">Github Stats</h3>
 <table>
   <tr>
@@ -24,7 +26,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuniam)](https://solved.ac/hyuniam/)
 
  **NEW POST** 
 </br>
